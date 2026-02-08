@@ -5,8 +5,9 @@
 <div align="center">
   <h1>Hi, I'm <a href="your-website-link">RANJEEV APPUKUTTAN</a> </h1>
   <p align="center">
-    <strong>[ORACLE FUSION TECHNO FUNCTIONAL CONSULTANT] 🚀 </strong>
+    <strong>[*ORACLE FUSION TECHNO FUNCTIONAL CONSULTANT*] 🚀 </strong>
   </p>
+
   
   <p align="center">
     <img src="https://img.shields.io/badge/WorkLocation-KUWAIT]-blue?style=flat-square&logo=googlemaps&logoColor=white" />
@@ -15,11 +16,29 @@
   </p>
 </div>
 
+
+---
+
+### 📈 GitHub Ecosystem Activity
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:[ranjeevappukuttan@gmail.com]"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[[YourLinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[YourTwitter/X]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
 ---
 ## :book: Executive Summary
 
 * I am a Techno-Functional Architect with over 18 years of experience sitting at the intersection of Healthcare IT and Oracle Cloud Infrastructure. My career has been defined by a deep fascination with interoperability—taking disparate systems like Hospital EMRs and making them "talk" fluently to enterprise platforms like Oracle Fusion HCM and SCM.
-* I don’t just build integrations; I design the digital nervous systems of modern hospitals. Whether I am automating complex HR workflows with Oracle Integration Cloud (OIC), architecting data migrations with HDL, or translating clinical KPIs into Power BI dashboards, my goal is always to turn fragmented data into actionable business intelligence.
+* I don’t just build integrations; I design the digital nervous systems of modern hospitals. Whether I am automating complex HR workflows with Oracle Integration Cloud (OIC), architecting data migrations with HDL, or translating clinical KPIs into BI dashboards using BI Tools , my goal is always to turn fragmented data into actionable business intelligence.
 
 ### 🎯 Mission Statement
 
@@ -152,15 +171,9 @@ Advanced Reporting: Turning data into stories using BI Publisher, OTBI, Power BI
 * **Security & Compliance Guardian:** Committed to the highest standards of data integrity, with extensive experience implementing HIPAA, Hi-Trust, and ITIL V3 frameworks.
 * **Techno-Functional Bridge:** A unique ability to translate complex business requirements into robust technical solutions, covering everything from User Administration and Security Console to HDL/FBDI data migrations.
 
-**Tools & Frameworks**
-
 ---
 
-### 📈 GitHub Ecosystem Activity
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight" />
-</div>
+**Tools & Frameworks**
 
 ---
 
@@ -169,15 +182,6 @@ Advanced Reporting: Turning data into stories using BI Publisher, OTBI, Power BI
 - **Healthcare: Certified HL7 V2.5 Control Specialist.** (2008)
 - **Agile Product Leadership: Certified CSPO (Certified Scrum Product Owner)** "via Scrum Alliance."
 - **Oracle Cloud Mastery** (2020-2026) : Worked and Trained in Oracle Fusion HCM & SCM and the Oracle Integration Cloud (OIC) platform.
-
----
-
-### 📫 Connect with Me
-<p align="left">
-  <a href="mailto:[ranjeevappukuttan@gmail.com]"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[[YourLinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[YourTwitter/X]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
 
 ---
 
